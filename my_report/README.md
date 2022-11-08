@@ -2,8 +2,8 @@
 
 ### First and Last Name: Συμεών Γαλανός
 ### University Registration Number: dpsd16016
-### GitHub Personal Profile: xxx
-### Digital & Serious Games Personal Repository: xxx
+### GitHub Personal Profile: https://github.com/Dpsd16016
+### Digital & Serious Games Personal Repository: -
 
 # Introduction
 
