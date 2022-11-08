@@ -58,7 +58,8 @@
 
 - Προχώρησα πρώιμα και στο Concept art του κακού χωρίς ακόμα να κάνω το ingame art.
 
-<img src="layerIconVersion1Final.png" width="500">
+<img src="playerIconVersion1Final.png" width="500">
+
 # 2nd Deliverable
 
 
