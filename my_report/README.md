@@ -48,7 +48,7 @@
 ![](MapOneDetail.png)
 <img src="BambooStrikeFinal.png" width="200">
 <img src="ArcherTrainingSackFinal.png" width="300">
-<img src="BridgePart2Final.png" width="300">
+<img src="BridgePart2Final.png" width="500">
 
 
 Σχεδιασμός Χαρακτήρα
