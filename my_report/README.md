@@ -13,9 +13,14 @@
 
 Υπόθεση: Ο πρωταγωνιστής samurai της ιστορίας αναζητά τον ή τους υπαίτιους που αφάνησαν το αφεντικό του. Τα πρώτα στοιχεία τον οδήγησαν στο σπίτι ενός πασίγνωστου ευγενή. Μέσα από αλληλεπιδράσεις και σκηνές θα μάθουμε τι πραγματικά συνέβη.
 
-Εχθροί: Τοξότες, Πολεμιστές, Boss
+Εχθροί:
+- Τοξότες :bow_and_arrow:
+- Πολεμιστές :dagger:
+- Boss :coffin:
 
-Εργαλεία για Ανάπτυξη: [ProCreate](https://procreate.art), [Unity Engine](https://unity.com)
+Εργαλεία για Ανάπτυξη:
+- [ProCreate](https://procreate.art) :fountain_pen:
+- [Unity Engine](https://unity.com) :desktop_computer:
 
 # 1st Deliverable
 
