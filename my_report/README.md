@@ -46,7 +46,7 @@
 - Σε επίπεδο ιδέας έχω ήδη αποφασίσει ένα βασικό layout για το δεύτερο μελλοντικό χάρτη καθώς θα τον σχεδιάσω με προοπτική τη λογική συνέχεια απο το πρώτο και στον οποίο θα βρίσκεται το final Boss
 
 ![](MapOneDetail.png)
-<img src="BambooStrikeFinal.png" width="300">
+<img src="BambooStrikeFinal.png" width="200">
 <img src="ArcherTrainingSackFinal.png" width="300">
 <img src="BridgePart2Final.png" width="300">
 
