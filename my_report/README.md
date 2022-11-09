@@ -1,7 +1,7 @@
 # Lesson: Digital & Serious Games
 
 ### First and Last Name: Συμεών Γαλανός
-### University Registration Number: dpsd16016
+### University Registration Number: Dpsd16016
 ### GitHub Personal Profile: https://github.com/Dpsd16016
 ### Digital & Serious Games Personal Repository: -
 
