@@ -8,7 +8,7 @@
 ### Ονοματεπώνυμο: Συμεών Γαλανός
 ### Αριθμός Μητρώου: Dpsd16016
 ### Προσωπικό Προφίλ GitHub: https://github.com/Dpsd16016
-### Εκτελέσιμο Link: [The Mad Ronin](https://dpsd16016.github.io/Role-Playing-Game/)
+### Διεύθυνση Παιχνιδιού: [The Mad Ronin](https://dpsd16016.github.io/Role-Playing-Game/)
 
 
 # Εισαγωγή
