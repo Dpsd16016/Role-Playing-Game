@@ -76,6 +76,7 @@
 ### Items
 ### Damage Zone
 ### Enemies
+### Animation
 
 # Τρίτο Παραδοτέο
 
