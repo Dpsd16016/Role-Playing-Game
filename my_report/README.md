@@ -129,3 +129,12 @@ ________
 
 
 # Πηγές
+
+### Παραδοτέο 1
+
+https://www.youtube.com/watch?v=DTp5zi8_u1U
+
+### Παραδοτέο 2
+
+https://www.youtube.com/watch?v=whzomFgjT50
+https://www.youtube.com/watch?v=sPiVz1k-fEs&t=744s
