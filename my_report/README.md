@@ -140,7 +140,7 @@
 
 ### Παραδοτέο 1
 
-[x] Βοήθησε https://www.youtube.com/watch?v=DTp5zi8_u1U
+- [x] Βοήθησε https://www.youtube.com/watch?v=DTp5zi8_u1U
 
 ### Παραδοτέο 2
 
