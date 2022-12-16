@@ -140,10 +140,10 @@
 
 ### Παραδοτέο 1
 
-- [x] https://www.youtube.com/watch?v=DTp5zi8_u1U
+[x] Βοήθησε https://www.youtube.com/watch?v=DTp5zi8_u1U
 
 ### Παραδοτέο 2
 
-- [x] https://www.youtube.com/watch?v=whzomFgjT50
-- [] https://www.youtube.com/watch?v=sPiVz1k-fEs&t=744s
-- [] https://www.youtube.com/watch?v=p6Klz_NZpEQ&t=345s
+[x] Βοήθησε https://www.youtube.com/watch?v=whzomFgjT50
+[ ] Δε βοήθησε πολύ https://www.youtube.com/watch?v=sPiVz1k-fEs&t=744s
+[ ] Δε βοήθησε πολύ https://www.youtube.com/watch?v=p6Klz_NZpEQ&t=345s
