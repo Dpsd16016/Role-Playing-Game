@@ -163,3 +163,8 @@
 - [x] Βοήθησε https://www.youtube.com/watch?v=whzomFgjT50
 - [ ] Δε βοήθησε πολύ https://www.youtube.com/watch?v=sPiVz1k-fEs&t=744s
 - [ ] Δε βοήθησε πολύ https://www.youtube.com/watch?v=p6Klz_NZpEQ&t=345s
+
+### Παραδοτέο 3
+
+- [x] Βοήθησε https://www.youtube.com/watch?v=xkB6yzCBfgw
+- [ ] Δε βοήθησε πολύ https://www.youtube.com/watch?v=KJtQfZ7gT30&t=490s
