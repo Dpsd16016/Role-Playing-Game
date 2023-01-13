@@ -153,7 +153,19 @@
 
 
 
-## 3
+## U.I.
+
+## Score
+
+## Dialog
+
+##Teleport
+
+##Audio
+
+##Main Menu
+
+##Extras
 
 # Συμπεράσματα
 
