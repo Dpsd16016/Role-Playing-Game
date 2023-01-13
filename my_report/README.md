@@ -159,13 +159,13 @@
 
 ## Dialog
 
-##Teleport
+## Teleport
 
-##Audio
+## Audio
 
-##Main Menu
+## Main Menu
 
-##Extras
+## Extras
 
 # Συμπεράσματα
 
