@@ -257,5 +257,9 @@ Main Menu:
 
 ### Παραδοτέο 3
 
-- [x] Βοήθησε https://www.youtube.com/watch?v=xkB6yzCBfgw
-- [ ] Δε βοήθησε πολύ https://www.youtube.com/watch?v=KJtQfZ7gT30&t=490s
+- [x] Βοήθησε https://www.youtube.com/watch?v=OLbWB1R095s
+- [x] Βοήθησε https://www.youtube.com/watch?v=-7I0slJyi8g&t=214s
+- [x] Βοήθησε https://www.youtube.com/watch?v=QbqnDbexrCw
+- [x] Βοήθησε https://www.youtube.com/watch?v=0JXVT28KCIg&t=3s
+- [x] Βοήθησε https://www.youtube.com/watch?v=YAHFnF2MRsE&t=218s
+- [x] Βοήθησε https://www.youtube.com/watch?v=xkB6yzCBfgw&t=10s
