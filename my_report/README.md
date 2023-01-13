@@ -157,7 +157,7 @@
 
 Αναφορικά με το U.I. οι οδηγίες του παραδοτέου ακολουθήθηκαν κατά γράμμα. Σχεδίασα δικό μου πορτρέτο χαρακτήρα, δικό μου πλαίσιο ζωής και μπάρα μετακίνησης. Το Display λειτουργεί κανονικά.
 
-<img src="portrait.png" width="300"> <img src="frame.png" width="500"> 
+<img src="portrait.png" width="200"> <img src="frame.png" width="500"> 
 
 ## Score
 
