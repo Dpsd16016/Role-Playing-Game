@@ -165,6 +165,8 @@
 
 ## Main Menu
 
+## Stage 2
+
 ## Extras
 
 # Συμπεράσματα
