@@ -145,7 +145,7 @@
 - [x]  Ο βασικός χαρακτήρας πλέον έχει Idle θέση προς κάθε πλευρά.
 - [x]  Ο χαρακτήρας **αντιδρά** στην απώλεια ζωής κανονικά (χρησιμοποιήθηκε frame απο το death animation, βλέπε Παραδοτέο 2 - Ενότητα Animation).
 
-<img src=" " width="300">
+<img src="Projectile.png" width="300"> <img src="DefeatPose.png" width="300"> 
 
 ## Particles
 
