@@ -262,7 +262,7 @@ Main Menu:
 
 Σχόλιο - Το θέμα του gameplay επανεξετάστηκε και προστέθηκαν πιο πολλοί εχθροί και παγήδες. Φυσικά επειδή πρόκειται για τύπου Demo δε γίνεται όλα να είναι τέλεια ούτε τελείως competitive gameplay αλλά έχει ενα challenge.
 
-<img src="Endpoint.png" width="300">
+<img src="EndPoint.png" width="300">
 
 # Συμπεράσματα
 
