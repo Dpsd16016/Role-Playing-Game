@@ -296,5 +296,5 @@ Main Menu:
 - [x] Βοήθησε https://www.youtube.com/watch?v=0JXVT28KCIg&t=3s
 - [x] Βοήθησε https://www.youtube.com/watch?v=YAHFnF2MRsE&t=218s
 - [x] Βοήθησε https://www.youtube.com/watch?v=xkB6yzCBfgw&t=10s
-- [x] https://www.youtube.com/watch?v=LziIlLB2Kt4
-- [x] https://www.youtube.com/watch?v=ZfRbuOCAeE8&t=635s
+- [x] Βοήθησε https://www.youtube.com/watch?v=LziIlLB2Kt4
+- [x] Βοήθησε https://www.youtube.com/watch?v=ZfRbuOCAeE8&t=635s
